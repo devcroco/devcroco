@@ -14,5 +14,4 @@
 </div><br/>
 
 Amando esse mundo de tecnlogia, estudante de programção na Alura.
-
 ![Snake animation](https://github.com/devcroco/devcroco/blob/output/github-contribution-grid-snake.svg)
