@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Bruno de Oliveira 🐊
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-de-oliveira-barboza-72689b255/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/baroquew0rks)
 
 ![Croco GitHub stats](https://github-readme-stats.vercel.app/api?username=devcroco&show_icons=true&theme=radical)
 
