@@ -13,6 +13,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Amando esse mundo de tecnlogia, estudante de programção na Alura.<br/>
+Amando esse mundo de tecnlogia, estudante de programção na Alura.
 
 ![Snake animation](https://github.com/devcroco/devcroco/blob/output/github-contribution-grid-snake.svg)
